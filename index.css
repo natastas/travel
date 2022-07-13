@@ -3,6 +3,7 @@
 @import url(./blocks/body.css);
 @import url(./blocks/page.css);
 @import url(./blocks/shadow.css);
+@import url(./blocks/button/button.css);
 @import url(./blocks/burger/burger.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__button/header__button.css);
@@ -64,3 +65,18 @@
 @import url(./blocks/footer/__items/footer__items.css);
 @import url(./blocks/footer/__text/footer__text.css);
 @import url(./blocks/footer/__background/footer__background.css);
+@import url(./blocks/popup/popup.css);
+@import url(./blocks/popup/__button/popup__button.css);
+@import url(./blocks/popup/__button/popup__button_facebook.css);
+@import url(./blocks/popup/__button/popup__button_google.css);
+@import url(./blocks/popup/__button/popup__button_signin.css);
+@import url(./blocks/popup/__container/popup__container.css);
+@import url(./blocks/popup/__form/popup__form.css);
+@import url(./blocks/popup/__input/popup__input.css);
+@import url(./blocks/popup/__line/popup__line.css);
+@import url(./blocks/popup/__link/popup__link.css);
+@import url(./blocks/popup/__link/popup__link_register.css);
+@import url(./blocks/popup/__login/popup__login.css);
+@import url(./blocks/popup/__text/popup__text.css);
+@import url(./blocks/popup/__text/popup__text_register.css);
+@import url(./blocks/popup/__title/popup__title.css);

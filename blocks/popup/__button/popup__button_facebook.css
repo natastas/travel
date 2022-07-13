@@ -1,0 +1,8 @@
+.popup__button_facebook {
+    background-color: #1877F2;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}

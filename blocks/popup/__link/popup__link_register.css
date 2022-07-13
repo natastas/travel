@@ -1,0 +1,9 @@
+.popup__link_register {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration-line: underline;
+    color: #0D606F;
+    margin: 0;
+    padding: 0;
+}

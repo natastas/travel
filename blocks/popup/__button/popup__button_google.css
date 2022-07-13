@@ -1,0 +1,9 @@
+.popup__button_google {
+    background-color: #fff;
+    color: #0D606F;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
