@@ -1,0 +1,13 @@
+.footer__text {
+    color: white;
+    text-decoration: none;
+    font-family: 'RedHatText';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.footer__text:hover {
+    font-size: 17px;
+}

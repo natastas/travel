@@ -1,0 +1,9 @@
+.steps__image {
+    background: #F2785C;
+    border-radius: 16px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}

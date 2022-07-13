@@ -1,0 +1,6 @@
+.stories__grid {
+    display: grid;
+    gap: 30px;
+    margin-top: 75px;
+    margin-bottom: 40px;
+}

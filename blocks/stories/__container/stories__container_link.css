@@ -1,0 +1,11 @@
+.stories__container_link {
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #0D606F;
+    margin: 0;
+    padding: 0;
+}

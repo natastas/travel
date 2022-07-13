@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Magra';
+    src: url("./Magra-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Aleo';
+    src: url("./Aleo-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Aleo';
+    src: url("./Aleo-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'RedHatText';
+    src: url("./RedHatText-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'RedHatText';
+    src: url("./RedHatText-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'RedHatText';
+    src: url("./RedHatText-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'RedHatText';
+    src: url("./RedHatText-Bold.ttf");
+    font-weight: 700;
+}
+

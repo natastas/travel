@@ -1,0 +1,7 @@
+.steps__items {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 37px;
+    padding: 0;
+}

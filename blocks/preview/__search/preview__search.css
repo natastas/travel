@@ -1,0 +1,11 @@
+.preview__search {
+    display: flex;
+    background: rgba(255, 255, 255, 0.7);
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 16px;
+    width: 832px;
+    height: 95px;
+    padding-left: 41px;
+    padding-right: 18px;
+}

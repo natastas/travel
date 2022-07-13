@@ -1,0 +1,6 @@
+.destinations__image {
+    width: 800px;
+    height: 800px;
+    z-index: 1;
+    border-radius: 16px;
+}

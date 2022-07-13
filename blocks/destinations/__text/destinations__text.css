@@ -1,0 +1,14 @@
+.destinations__text {
+    font-family: 'RedHatText';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    overflow: visible;
+    position: absolute;
+    left: 15px;
+    bottom: 40px;
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+}
