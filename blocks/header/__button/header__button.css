@@ -1,0 +1,11 @@
+.header__button {
+    width: 1013px;
+    height: 411px;
+}
+
+@media (max-width: 840px) {
+    .header__button {
+        width: 8px;
+        height: 31px;
+    }
+}

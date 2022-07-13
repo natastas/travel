@@ -5,3 +5,10 @@
     font-size: 32px;
     line-height: 39px;
 }
+
+
+@media (max-width: 840px) {
+    .logo__text {
+        display: none;
+    }
+}
