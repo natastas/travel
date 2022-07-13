@@ -9,3 +9,9 @@
         height: 31px;
     }
 }
+
+@media (max-width: 391px) {
+    .header__button {
+       display: none;
+    }
+}

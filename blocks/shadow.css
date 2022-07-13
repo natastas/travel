@@ -1,0 +1,14 @@
+.shadow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -50;
+    transition: 500ms ease-in-out;
+}
+
+.shadow_active {
+    z-index: 40;
+    background: rgba(0, 0, 0, .4);;
+  }

@@ -4,8 +4,25 @@
     justify-content: space-between;
     align-items: center;
     border-radius: 16px;
-    width: 832px;
+    max-width: 832px;
     height: 95px;
     padding-left: 41px;
     padding-right: 18px;
+}
+
+@media (max-width: 600px) {
+    .preview__search {
+        margin-bottom: 40px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 391px) {
+    .preview__search {
+        max-width: 360px;
+        height: 48px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 60px;
+    }
 }

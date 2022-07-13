@@ -7,3 +7,30 @@
     margin-bottom: 46px;
     padding-top: 10px;
 }
+
+@media (max-width: 1115px) {
+    .preview__paragraph {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}
+
+@media (max-width: 840px) {
+    .preview__paragraph {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .preview__paragraph {
+        font-size: 14px;
+        line-height: 16px;
+    }
+}
+
+@media (max-width: 390px) {
+    .preview__paragraph {
+        display: none;
+    }
+}
