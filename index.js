@@ -1,4 +1,4 @@
-/* console.log("Score: 100");
+console.log("Score: 100");
 
 const menu = document.querySelector('.header__items');
 const burger = document.querySelector('.burger');
@@ -28,9 +28,9 @@ function closeBurger() {
     burgerSpan.classList.remove('burger__span_active');
     body.classList.remove('body_noscroll');
     shadow.classList.remove('shadow_active');
-} */
+} 
 
-/* const buttonLogin = document.querySelector('.header__button');
+const buttonLogin = document.querySelector('.header__button');
 const popupSign = document.querySelector('.popup');
 
 buttonLogin.addEventListener('click', openPopup);
@@ -38,4 +38,5 @@ buttonLogin.addEventListener('click', openPopup);
 function openPopup() {
     popupSign.classList.add('popup_active')
 }
-     */
+     
+
